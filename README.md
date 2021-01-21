@@ -1,4 +1,4 @@
-# google_maps_demo
+# flutter_latitude_longitude_demo
 
 A new Flutter project.
 
